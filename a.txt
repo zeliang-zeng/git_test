@@ -1,6 +1,6 @@
-hello vim hot hot hot
-hello vim master master  hot hot master master 
-hello vim hot hot hot
+hello vim
+hello vim
+hello vim
 hello vim
 hello vim
 hello vim
